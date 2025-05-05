@@ -90,7 +90,7 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
   
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
+  <a href="https://www.linkedin.com/in/hemant1491/">
     <img height = "64px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
   </a>
   
