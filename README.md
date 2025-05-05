@@ -55,6 +55,10 @@ Hey My Name is Hemant, Detail-oriented data analyst with a passion for transform
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Seaborn</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
@@ -72,6 +76,10 @@ Hey My Name is Hemant, Detail-oriented data analyst with a passion for transform
       <td width="25%" align="center">
         <span><strong>C</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Seaborn</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn.svg">
       </td>
     </tr>
   </tbody>
