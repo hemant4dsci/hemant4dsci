@@ -94,7 +94,7 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
     <img height = "64px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
   </a>
   
-  <a href="https://github.com/parth-27">
+  <a href="https://github.com/hemant1491">
     <img height = "64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">  
   </a>
 </p>
