@@ -17,7 +17,7 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Python</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>NumPY</strong></span><br><br><br>
