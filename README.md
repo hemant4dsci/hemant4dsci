@@ -101,7 +101,7 @@ A Detail-oriented data analyst with a passion for transforming complex data into
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/parth-patel-313a40198/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
+    <img src="https://cdn.svgporn.com/logos/linkedin.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   
   <a href="https://github.com/parth-27">
