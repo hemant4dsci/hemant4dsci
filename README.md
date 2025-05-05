@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transforming complex data into actionable insights to drive strategic decision-making.
+A Detail-oriented data analyst with a passion for transforming complex data into actionable insights to drive strategic decision-making.
 
 <hr/>
 
@@ -55,8 +55,8 @@ Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transfo
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
-        <span>Seaborn</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn.svg">
+        <span>My SQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
     <tr valign="top">
