@@ -24,8 +24,8 @@ Hey My Name is Hemant, Detail-oriented data analyst with a passion for transform
         <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Pandas</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pandas.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>React</strong>
