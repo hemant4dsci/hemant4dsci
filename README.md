@@ -50,7 +50,7 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
         <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>𝗩𝗦 𝗖𝗼𝗱𝗲</strong></span><br><br><br>
+        <span><strong>VS Code</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
