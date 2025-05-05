@@ -69,8 +69,8 @@ A Detail-oriented data analyst with a passion for transforming complex data into
         <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>MySql</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <span><strong>R</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>C</strong></span><br><br><br>
