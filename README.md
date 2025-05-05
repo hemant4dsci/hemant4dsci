@@ -73,8 +73,8 @@ A Detail-oriented data analyst with a passion for transforming complex data into
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>C</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/564px-The_C_Programming_Language_logo.svg.png">
+        <span><strong>Git</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>Seaborn</span><br><br><br>
