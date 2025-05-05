@@ -47,8 +47,8 @@ Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transfo
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>Jupyter Notebook</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
