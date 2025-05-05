@@ -38,9 +38,9 @@ Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transfo
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><strong>Python</strong>
+        <span><strong>Scikit-Learn</strong>
         </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+        <img height="64px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
