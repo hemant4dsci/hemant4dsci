@@ -32,9 +32,9 @@ Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transfo
         <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>SciPy</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
-      </td>
+        <span>Seaborn</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
+      </td>td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
@@ -42,10 +42,9 @@ Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transfo
         </span><br><br><br>
         <img height="64px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>𝗘𝘀𝗹𝗶𝗻𝘁</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+     <td width="20%" align="center">
+        <span>SciPy</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
