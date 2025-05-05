@@ -29,7 +29,7 @@ Hey My Name is Hemant, Detail-oriented data analyst with a passion for transform
       </td>
       <td width="25%" align="center">
         <span>Matplotlib</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
       </td>
       <td width="25%" align="center">
         <span>Seaborn</span><br><br><br>
