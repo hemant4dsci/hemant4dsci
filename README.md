@@ -65,8 +65,8 @@ A Detail-oriented data analyst with a passion for transforming complex data into
         <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
+        <span><strong>Tableau</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>MySql</strong></span><br><br><br>
@@ -136,4 +136,4 @@ A Detail-oriented data analyst with a passion for transforming complex data into
 
 
 ---
-⭐️ From [Parth Patel](https://github.com/parth-27) 
+⭐️ From [Parth Patel](https://github.com/hemant1491) 
