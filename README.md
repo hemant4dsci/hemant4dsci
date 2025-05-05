@@ -21,63 +21,63 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
       </td>
       <td width="20%" align="center">
         <span><strong>NumPY</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/numpy.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Pandas</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Matplotlib</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Seaborn</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Scikit-Learn</strong></span><br><br><br>
-        <img height="64px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
+        <img height="128px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
       </td>
      <td width="20%" align="center">
         <span><strong>SciPy</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
+        <img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Jupyter Notebook</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>VS Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>My SQL</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Power BI</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Tableau</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>R</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
+        <img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Excel</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
+        <img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
   </tbody>
