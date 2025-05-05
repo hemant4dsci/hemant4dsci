@@ -16,23 +16,23 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Python</span><br><br><br>
+        <span><strong>Python</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
-        <span>NumPY</span><br><br><br>
+        <span><strong>NumPY</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">
       </td>
       <td width="20%" align="center">
-        <span>Pandas</span><br><br><br>
+        <span><strong>Pandas</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>Matplotlib</span><br><br><br>
+        <span><strong>Matplotlib</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
       </td>
       <td width="20%" align="center">
-        <span>Seaborn</span><br><br><br>
+        <span><strong>Seaborn</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
       </td>
     </tr>
