@@ -53,7 +53,7 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
         <img height="128px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="20%" align="center">
-        <span><strong>My SQL</strong></span><br><br><br>
+        <span><strong>MySQL</strong></span><br><br><br>
         <img height="128px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
     </tr>
