@@ -105,7 +105,7 @@ A Detail-oriented data analyst with a passion for transforming complex data into
   </a>
   
   <a href="https://github.com/parth-27">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
+    <img height = "32px" src="https://cdn.svgporn.com/logos/github.svg">  
   </a>
 </p>
 </h1>
