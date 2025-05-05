@@ -6,7 +6,7 @@
 
 ## About Me
 
-A Detail-oriented data analyst with a passion for transforming complex data into actionable insights to drive strategic decision-making.
+A Detail-oriented "Data Analyst" with a passion for transforming complex data into actionable insights to drive strategic decision-making.
 
 <hr/>
 
