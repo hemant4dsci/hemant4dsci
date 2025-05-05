@@ -15,23 +15,23 @@ Hey My Name is Hemant, Detail-oriented data analyst with a passion for transform
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Python</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>NumPY</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Pandas</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pandas.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Matplotlib</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Pandas</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pandas.svg">
       </td>
