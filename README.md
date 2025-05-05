@@ -61,8 +61,8 @@ A Detail-oriented data analyst with a passion for transforming complex data into
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg">
+        <span><strong>Power BI</strong></span><br><br><br>
+        <img height="64px" src="https://www.vectorlogo.zone/logos/djangoproject/microsoft-power-bi.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>Java</strong></span><br><br><br>
