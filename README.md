@@ -34,7 +34,7 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
       <td width="20%" align="center">
         <span>Seaborn</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
-      </td>td>
+      </td>
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
