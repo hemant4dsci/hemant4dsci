@@ -28,9 +28,12 @@ Hey My Name is Hemant, Detail-oriented data analyst with a passion for transform
         <img height="64px" src="https://cdn.svgporn.com/logos/pandas.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
-        <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
+        <span>Matplotlib</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Pandas</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pandas.svg">
       </td>
     </tr>
     <tr valign="top">
