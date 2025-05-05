@@ -32,8 +32,8 @@ Hey My Name is Hemant, A Detail-oriented data analyst with a passion for transfo
         <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>Seaborn</span><br><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn.svg">
+        <span>Seaborn</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
       </td>
     </tr>
     <tr valign="top">
