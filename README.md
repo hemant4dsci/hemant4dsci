@@ -38,12 +38,11 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span><strong>Scikit-Learn</strong>
-        </span><br><br><br>
+        <span><strong>Scikit-Learn</strong></span><br><br><br>
         <img height="64px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
       </td>
      <td width="20%" align="center">
-        <span>SciPy</span><br><br><br>
+        <span><strong>SciPy</strong>strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
       </td>
       <td width="20%" align="center">
