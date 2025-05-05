@@ -12,7 +12,6 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table>
-  <tbody>
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Python</strong></span><br><br><br>
@@ -79,7 +78,6 @@ A Detail-oriented "Data Analyst" with a passion for transforming complex data in
         <img height="128px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
-  </tbody>
 </table>
 <hr>
 
