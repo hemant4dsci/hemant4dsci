@@ -92,7 +92,7 @@
     <img height = "64px" src="https://cdn.svgporn.com/logos/linkedin.svg">
   </a>
   
-  <a href="https://github.com/hemant4dsci">
+  <a href="https://github.com/hemant4dsci/">
     <img height = "64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">  
   </a>
 </p>
