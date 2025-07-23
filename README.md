@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Hemant!](https://github.com/hemant1491) !!
+# Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm [Hemant!](https://github.com/hemant4ds) !!
 
 </h2>
 
@@ -88,11 +88,11 @@
   
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/hemant1491/">
+  <a href="https://www.linkedin.com/in/hemant4ds/">
     <img height = "64px" src="https://cdn.svgporn.com/logos/linkedin.svg">
   </a>
   
-  <a href="https://github.com/hemant1491">
+  <a href="https://github.com/hemant4ds">
     <img height = "64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">  
   </a>
 </p>
@@ -100,7 +100,7 @@
 
 <div align = "center">
 
-![Hemant's Github Status](https://github-readme-stats.vercel.app/api?username=hemant1491&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+![Hemant's Github Status](https://github-readme-stats.vercel.app/api?username=hemant4ds&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
@@ -110,4 +110,4 @@
 
 
 ---
-⭐️ From [Hemant](https://github.com/hemant1491) 
+⭐️ From [Hemant](https://github.com/hemant4ds) 
