@@ -13,7 +13,7 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 
-<span style="display:inline-block; text-align:center; margin:10px;">
+<span style="display:inline-block; text-align:center; margin:10px;"> <br/>
   <img src="https://cdn.svgporn.com/logos/python.svg" width="50"/><br>Python
 </span>,
 <span style="display:inline-block; text-align:center; margin:10px;">
@@ -22,7 +22,6 @@
 <span style="display:inline-block; text-align:center; margin:10px;">
   <img src="https://cdn.svgporn.com/logos/pandas-icon.svg" width="50"/><br>Pandas
 </span>
-
 
 
 <img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
