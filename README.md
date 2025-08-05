@@ -13,10 +13,10 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <span style="display:inline-block; text-align:center; margin:10px;">
-  <img height="64px" src="https://cdn.svgporn.com/logos/python.svg"/><br>Python
+  <img src="https://cdn.svgporn.com/logos/python.svg" width="50"/><br>Python
 </span>
 <span style="display:inline-block; text-align:center; margin:10px;">
-  <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg"/><br>NumPy
+  <img src="https://cdn.svgporn.com/logos/numpy.svg" width="50"/><br>NumPy
 </span>
 <img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
 <img height="128px" src="https://cdn.svgporn.com/logos/numpy.svg">
