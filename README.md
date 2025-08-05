@@ -25,9 +25,9 @@
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">  
   </a>
-  <img height="64px" src="https://cdn.svgporn.com/logos/scikit-learn.svg">  
+  <img height="64px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">  
   </a>
-  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2">  
+  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">  
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">  
   </a>
