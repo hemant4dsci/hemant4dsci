@@ -19,6 +19,26 @@
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">  
   </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/scikit-learn.svg">  
+  </a>
+  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/mysql.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">  
+  </a>
+  <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">  
+  </a>
 </p>
 
 
