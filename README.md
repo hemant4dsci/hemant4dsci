@@ -15,7 +15,7 @@
 
 <p align="center">
   <br/>
-    <img height = "64px" src="https://cdn.svgporn.com/logos/python.svg">
+    <img src="https://cdn.svgporn.com/logos/python.svg" width="50">
   </a>
   <img height = "64px" src="https://cdn.svgporn.com/logos/numpy.svg">  
   </a>
