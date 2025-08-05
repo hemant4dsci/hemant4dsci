@@ -38,11 +38,13 @@
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">  
   </a>
-  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">  
+  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg">  
   </a>
   <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">  
   </a>
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg">  
+  </a>
+  <img height="64px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg">  
   </a>
 </p>
 
