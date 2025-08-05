@@ -52,7 +52,7 @@
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/hemant4dsci/">
-    <img height = "64px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg">
+    <img height = "64px" src="https://www.svgrepo.com/show/138936/linkedin.svg">
   </a>
   
   <a href="https://github.com/hemant4dsci/">
