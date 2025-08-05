@@ -15,9 +15,9 @@
 
 <p align="center">
   <br/>
-    <img height = "64px" src="https://cdn.svgporn.com/logos/linkedin.svg">
+    <img height = "64px" src="https://cdn.svgporn.com/logos/python.svg">
   </a>
-  <img height = "64px" src="https://cdn.svgporn.com/logos/github-octocat.svg">  
+  <img height = "64px" src="https://cdn.svgporn.com/logos/numpy.svg">  
   </a>
 </p>
 
