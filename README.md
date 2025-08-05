@@ -16,7 +16,7 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Python</strong></span><br><br><br>
-        <img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
+        <img height="128px" src="[https://cdn.svgporn.com/logos/python.svg](https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg)">
       </td>
       <td width="20%" align="center">
         <span><strong>NumPY</strong></span><br><br><br>
