@@ -44,8 +44,6 @@
   </a>
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg">  
   </a>
-  <img height="64px" src="https://github.com/tandpfun/skill-icons/blob/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Anaconda-Dark.svg">  
-  </a>
 </p>
 
 <h1 align="center">
