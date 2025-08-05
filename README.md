@@ -10,26 +10,9 @@
 
 <hr/>
 
-## 🧰 Tools & Technologies
-
-<p>
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/jupyter.svg" />
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-Advanced-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-Advanced-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-Intermediate-11557C?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Alteryx-Intermediate-0096DB?logo=alteryx&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-Intermediate-276DC3?logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-Advanced-9A9A9A?logo=google-analytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-Intermediate-F37626?logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-Intermediate-007ACC?logo=visual-studio-code&logoColor=white" />
-</p>
----
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+
+![Python](https://cdn.svgporn.com/logos/python.svg) 
 <table>
     <tbody>
     <tr valign="top">
