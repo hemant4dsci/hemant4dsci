@@ -13,7 +13,7 @@
 ## 🧰 Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white" />
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/jupyter.svg" />
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-Advanced-E97627?logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-Advanced-4479A1?logo=mysql&logoColor=white" />
@@ -35,7 +35,7 @@
     <tr valign="top">
       <td width="20%" align="center">
         <span><strong>Python</strong></span><br><br><br>
-        <img height="128px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg">
+        <img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="20%" align="center">
         <span><strong>NumPY</strong></span><br><br><br>
