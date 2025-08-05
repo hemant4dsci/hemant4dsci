@@ -12,10 +12,9 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-
 <p align="center">
   <br/>
-    <img height="50"src="https://cdn.svgporn.com/logos/python.svg">
+    <img height="50"src="https://cdn.svgporn.com/logos/python.svg"> **Python**
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/numpy.svg">  
   </a>
@@ -46,23 +45,6 @@
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg">  
   </a>
 </p>
-
-
-<img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/numpy.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
-<img height="128px" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg">
-<img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/jupyter.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/mysql.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg">
-<img height="128px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
-<img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
-<img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
-<img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg">
 
 <h1 align="center">
 ✨ Where you can find me ✨
