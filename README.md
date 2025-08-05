@@ -12,7 +12,7 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![Python](https://cdn.svgporn.com/logos/python.svg) 
+<img src="https://cdn.svgporn.com/logos/python.svg" width="50"/> **Python** 
 <table>
     <tbody>
     <tr valign="top">
