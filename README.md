@@ -39,6 +39,12 @@
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">  
   </a>
+  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">  
+  </a>
+  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">  
+  </a>
+  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg">  
+  </a>
 </p>
 
 
@@ -56,7 +62,7 @@
 <img height="128px" src="https://cdn.svgporn.com/logos/tableau-icon.svg">
 <img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
 <img height="128px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg">
-<img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" width ="50">
+<img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg">
 
 <h1 align="center">
 ✨ Where you can find me ✨
