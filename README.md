@@ -12,8 +12,8 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-<img height="128px" src="https://cdn.svgporn.com/logos/python.svg"> **Python**
-<img height="128px" src="https://cdn.svgporn.com/logos/numpy.svg"> **NumPy**
+<img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
+<img height="128px" src="https://cdn.svgporn.com/logos/numpy.svg">
 <img height="128px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
 <img height="128px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
 <img height="128px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg">
