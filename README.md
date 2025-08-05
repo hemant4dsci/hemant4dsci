@@ -24,6 +24,9 @@
 <span style="display:inline-block; text-align:center; margin:10px;">
   <img src="https://cdn.svgporn.com/logos/pandas-icon.svg" width="50"/><br>Pandas
 </span>
+
+
+
 <img height="128px" src="https://cdn.svgporn.com/logos/python.svg">
 <img height="128px" src="https://cdn.svgporn.com/logos/numpy.svg">
 <img height="128px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">
