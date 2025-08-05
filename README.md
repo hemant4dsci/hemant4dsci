@@ -18,7 +18,7 @@
   </a>
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/numpy.svg">  
   </a>
-  <img height="64px" src="https://cdn.svgporn.com/logos/pandas-icon.svg">  
+  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg">  
   </a>
   <img height="64px" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">  
   </a>
