@@ -28,10 +28,11 @@
 
 ## GitHub Status
 
-<p></p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemant4dsci&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000" alt="Hemant's GitHub Stats"/>
-</div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant4dsci&layout=compact&theme=synthwave" alt="Hemant's Top Languages" />
+  </a>
+</p>
 
 ## Let's Connect
 
@@ -48,7 +49,6 @@
     <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail"/>
   </a>
 </p>
-<p></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
