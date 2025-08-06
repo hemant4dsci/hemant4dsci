@@ -52,7 +52,7 @@
   ✨ Where you can find me ✨
 </p>
 
-<p align="center">
+<div align="center">
   <br/>
   <a href="https://www.linkedin.com/in/hemant4dsci/">
     <img height = "64px" src="https://www.svgrepo.com/show/138936/linkedin.svg">
@@ -65,7 +65,7 @@
    <a href="mailto:hemant4dsci@gmail.com">
     <img height = "64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg">  
   </a>
-</p>
+</div>
 
 <div align = "center">
   
