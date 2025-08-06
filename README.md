@@ -41,14 +41,14 @@
 
 <p>
   <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
-    <img height="48px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn" />
+    <img height="64px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn" />
   </a>
   <a href="https://github.com/hemant4dsci" target="_blank">
-    <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg" alt="GitHub" />
+    <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg" alt="GitHub" />
   </a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
-    <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail" />
-  </a>
+  <a href="mailto:hemant4dsci@gmail.com">
+    <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail" />
+</a>
 </p>
 
 <h3>Thanks for stopping by! 😊</h3>
