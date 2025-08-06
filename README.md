@@ -39,7 +39,7 @@
 
 <h2><strong> Let's Connect</strong></h2>
 
-<table align="center">
+<table>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
