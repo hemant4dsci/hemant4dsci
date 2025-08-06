@@ -2,7 +2,7 @@
   Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm <a href="https://github.com/hemant4dsci">Hemant</a>
 </h1>
 
-## About Me
+<h2><stron> About Me </stron></h2>
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
@@ -26,7 +26,7 @@
   <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
 </p>
 
-## GitHub Status
+<h2><strong> GitHub Status </strong></h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
