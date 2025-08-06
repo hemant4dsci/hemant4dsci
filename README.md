@@ -6,7 +6,7 @@
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
-<h1 align ='center'><strong> Tools </strong></h1>
+<h1 align ='center'><strong> My Tech Stack </strong></h1>
 
 <p align="center">
   <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
