@@ -9,9 +9,9 @@
 <h2><strong> My Tech Stack </strong></h2>
 
 <p align="center">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Python-Light.svg" alt="Python">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Numpy-Light.svg" alt="NumPy">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-light.svg" alt="Pandas">
+  <img height="72px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
+  <img height="72px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy">
+  <img height="72px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-light.svg" alt="Matplotlib">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-light.svg" alt="Seaborn">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/SciKitLearn-Light.svg" alt="Scikit-learn">
@@ -23,7 +23,7 @@
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-light.svg" alt="Tableau">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/R-Light.svg" alt="R">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-light.svg" alt="Excel">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-light.svg" alt="Git">
+  <img height="72px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/git.svg" alt="Git">
 </p>
 
 <h2><strong> GitHub Status </strong></h2>
