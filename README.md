@@ -2,13 +2,9 @@
 
 </h2>
 
-<hr/>
-
 ## About Me
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
-
-<hr/>
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -46,13 +42,11 @@
   </a>
 </p>
 
-<hr/>
-
 <div align = "center">
   
   ![Hemant's Github Status](https://github-readme-stats.vercel.app/api?username=hemant4dsci&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-<hr>
+</div>
 
 <p align="center">
   ✨ Where you can find me ✨
@@ -72,8 +66,6 @@
     <img height = "64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg">  
   </a>
 </p>
-
-<hr/>
 
 </div>
 <div align = "center">
