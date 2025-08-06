@@ -43,17 +43,17 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
-        <img height="64px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn" />
+        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" />
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/hemant4dsci" target="_blank">
-        <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg" alt="GitHub" />
+        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Github-Dark.svg" alt="GitHub" />
       </a>
     </td>
     <td align="center">
       <a href="mailto:hemant4dsci@gmail.com" target="_blank">
-        <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail" />
+        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Gmail-Light.svg" alt="Gmail" />
       </a>
     </td>
   </tr>
