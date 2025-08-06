@@ -52,20 +52,19 @@
   ✨ Where you can find me ✨
 </p>
 
-<div align="center">
-  <br/>
+<p align="center">
   <a href="https://www.linkedin.com/in/hemant4dsci/">
-    <img height = "64px" src="https://www.svgrepo.com/show/138936/linkedin.svg">
+    <img height="48px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn"/>
   </a>
-  
+  &nbsp;&nbsp;
   <a href="https://github.com/hemant4dsci/">
-    <img height = "64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg">  
+    <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg" alt="GitHub"/>
   </a>
-  
-   <a href="mailto:hemant4dsci@gmail.com">
-    <img height = "64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg">  
+  &nbsp;&nbsp;
+  <a href="mailto:hemant4dsci@gmail.com">
+    <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail"/>
   </a>
-</div>
+</p>
 
 <div align = "center">
   
