@@ -9,21 +9,21 @@
 <h2><strong> My Tech Stack </strong></h2>
 
 <p align="center">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib">
-  <img height="72px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL">
-  <img height="72px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI">
-  <img height="72px" src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00c8060624099cbca678_5cb9dcae-6eb4-5111-9e7e-301a036912f7.svg" alt="Tableau">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
-  <img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Python-Light.svg" alt="Python">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Numpy-Light.svg" alt="NumPy">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-light.svg" alt="Pandas">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-light.svg" alt="Matplotlib">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-light.svg" alt="Seaborn">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/SciKitLearn-Light.svg" alt="Scikit-learn">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scipy-light.svg" alt="SciPy">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/jupyter-light.svg" alt="Jupyter">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/VSCode-Light.svg" alt="VSCode">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/MySQL-Light.svg" alt="MySQL">
+  <img height="72px" src="https://github.com/syvixor/skills-icons/blob/42e4386732c0d901d061694b47e70c1a9e22c01d/icons/powerbi.svg" alt="Power BI">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-light.svg" alt="Tableau">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/R-Light.svg" alt="R">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-light.svg" alt="Excel">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-light.svg" alt="Git">
 </p>
 
 <h2><strong> GitHub Status </strong></h2>
