@@ -46,6 +46,8 @@
   </a>
 </p>
 
+<hr/>
+
 <h1 align="center">
 ✨ Where you can find me ✨
   
