@@ -43,7 +43,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
-        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" />
+        <img height="64px" src="https://www.iconarchive.com/download/i75878/martz90/circle/linkedin.512.png" alt="LinkedIn" />
       </a>
     </td>
     <td align="center">
