@@ -2,11 +2,11 @@
   Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm <a href="https://github.com/hemant4dsci">Hemant</a>
 </h1>
 
-<h2><stron> About Me </stron></h2>
+<h2 align="center"><strong> About Me </strong></h2>
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
-<h2><strong> My Tech Stack </strong></h2>
+<h2 align="center"><strong> My Tech Stack </strong></h2>
 
 <p align="center">
   <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
@@ -26,7 +26,7 @@
   <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
 </p>
 
-<h2><strong> GitHub Status </strong></h2>
+<h2 align="center"><strong> GitHub Status </strong></h2>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
