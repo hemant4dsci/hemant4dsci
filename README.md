@@ -52,7 +52,7 @@
   ✨ Where you can find me ✨
 </h1>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/hemant4dsci/">
     <img height="48px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn"/>
   </a>
