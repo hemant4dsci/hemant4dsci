@@ -48,9 +48,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hemant4dsci&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000" alt="Hemant's GitHub Stats"/>
 </div>
 
-<p align="center">
+<h1 align="center">
   ✨ Where you can find me ✨
-</p>
+</h1>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hemant4dsci/">
