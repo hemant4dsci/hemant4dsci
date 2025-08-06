@@ -48,7 +48,7 @@
     <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail"/>
   </a>
 </p>
-
+<p></p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
