@@ -8,23 +8,29 @@
 
 <h2><strong> My Tech Stack </strong></h2>
 
-<p align="center">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib">
-  <img height="72px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL">
-  <img height="72px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI">
-  <img height="72px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
-  <img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
-  <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib"/></td>
+    <td align="center"><img height="72px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img height="72px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI"/></td>
+    <td align="center"><img height="72px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R"/></td>
+    <td align="center"><img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel"/></td>
+    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git"/></td>
+  </tr>
+</table>
 
 <h2><strong> GitHub Status </strong></h2>
 
