@@ -9,21 +9,21 @@
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 <p align="center">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib">
-  <img height="48px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL">
-  <img height="48px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI">
-  <img height="48px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
-  <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
-  <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib">
+  <img height="64px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL">
+  <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI">
+  <img height="64px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
+  <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
+  <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
 </p>
 
 ## GitHub Status
