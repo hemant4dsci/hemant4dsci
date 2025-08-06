@@ -48,7 +48,9 @@
 
 <hr/>
 
-✨ Where you can find me ✨
+<p align="center">
+  ✨ Where you can find me ✨
+</p>
 
 <p align="center">
   <br/>
