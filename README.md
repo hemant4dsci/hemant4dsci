@@ -34,7 +34,7 @@
 
 ## Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/hemant4dsci/">
     <img height="48px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn"/>
   </a>
