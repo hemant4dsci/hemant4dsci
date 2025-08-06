@@ -48,7 +48,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/hemant4dsci" target="_blank">
-        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Github-Dark.svg" alt="GitHub" />
+        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Github-Light.svg" alt="GitHub" />
       </a>
     </td>
     <td align="center">
