@@ -54,6 +54,12 @@
   <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
 
+<h3 align="center">Thanks for stopping by! 😊</h3>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
 <h3>Thanks for Stopping by!! 😊</h3>
 
 
