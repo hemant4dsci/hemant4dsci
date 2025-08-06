@@ -73,6 +73,8 @@
   </a>
 </p>
 
+<hr/>
+
 </div>
 <div align = "center">
   
