@@ -48,6 +48,14 @@
 
 <hr/>
 
+<hr/>
+
+<div align = "center">
+  
+  ![Hemant's Github Status](https://github-readme-stats.vercel.app/api?username=hemant4dsci&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<hr>
+
 <p align="center">
   ✨ Where you can find me ✨
 </p>
@@ -66,14 +74,6 @@
     <img height = "64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg">  
   </a>
 </p>
-
-<hr/>
-
-<div align = "center">
-  
-  ![Hemant's Github Status](https://github-readme-stats.vercel.app/api?username=hemant4dsci&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-<hr>
 
 </div>
 <div align = "center">
