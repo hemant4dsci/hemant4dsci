@@ -38,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
-## Let's Connect
+<h2><strong> Let's Connect </strong></h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hemant4dsci/">
