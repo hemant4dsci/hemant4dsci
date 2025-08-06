@@ -67,7 +67,6 @@
   </a>
 </p>
 
-</div>
 <div align = "center">
   
   ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
