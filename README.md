@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant4dsci&layout=compact&theme=synthwave" alt="Hemant's Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=hemant4dsci&theme=synthwave" alt="Hemant's GitHub Stats">
   </a>
 </p>
 
