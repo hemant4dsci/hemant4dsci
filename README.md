@@ -20,7 +20,7 @@
   <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode">
   <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL">
   <img height="72px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI">
-  <img height="72px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau">
+  <img height="72px" src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/664e00c8060624099cbca678_5cb9dcae-6eb4-5111-9e7e-301a036912f7.svg" alt="Tableau">
   <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
   <img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
   <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
