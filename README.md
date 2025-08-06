@@ -69,6 +69,8 @@
 
 </div>
 
+![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
+
 <h3>Thanks for Stopping by!! 😊</h3>
 
 
