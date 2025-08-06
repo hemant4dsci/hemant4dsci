@@ -22,7 +22,6 @@
   <img height="72px" src="https://github.com/syvixor/skills-icons/blob/42e4386732c0d901d061694b47e70c1a9e22c01d/icons/powerbi.svg" alt="Power BI">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-light.svg" alt="Tableau">
   <img height="72px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-light.svg" alt="Excel">
   <img height="72px" src="https://cdn-icons-png.flaticon.com/512/906/906310.png" alt="Excel">
   <img height="72px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
 </p>
