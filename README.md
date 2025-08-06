@@ -66,12 +66,8 @@
   </a>
 </p>
 
-<div align = "center">
-  
-  ![snake gif](https://github.com/StefRuseva88/StefRuseva88/blob/output/github-snake-dark.svg)
-
-<hr>
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="snake gif"/>
 </div>
 
 <h3>Thanks for Stopping by!! 😊</h3>
