@@ -1,4 +1,4 @@
-<h1 align="left">
+<h1>
   Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm <a href="https://github.com/hemant4dsci">Hemant</a>
 </h1>
 
@@ -52,7 +52,7 @@
   </a>
 </p>
 
-<h3 align="center">Thanks for stopping by! 😊</h3>
+<h3>Thanks for stopping by! 😊</h3>
 
 ---
 ⭐️ From [Hemant](https://github.com/hemant4dsci) 
