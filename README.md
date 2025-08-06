@@ -10,21 +10,66 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib"/></td>
-    <td align="center"><img height="72px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL"/></td>
-    <td align="center"><img height="72px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI"/></td>
-    <td align="center"><img height="72px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R"/></td>
-    <td align="center"><img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel"/></td>
-    <td align="center"><img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git"/></td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/python.svg" alt="Python"/>
+      <br/><sub><b>Python</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/numpy.svg" alt="NumPy"/>
+      <br/><sub><b>NumPy</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/pandas.svg" alt="Pandas"/>
+      <br/><sub><b>Pandas</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/matplotlib.svg" alt="Matplotlib"/>
+      <br/><sub><b>Matplotlib</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" alt="Seaborn"/>
+      <br/><sub><b>Seaborn</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/scikit-learn.svg" alt="Scikit-learn"/>
+      <br/><sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/scipy.svg" alt="SciPy"/>
+      <br/><sub><b>SciPy</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/jupyter.svg" alt="Jupyter"/>
+      <br/><sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/vscode.svg" alt="VSCode"/>
+      <br/><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/mysql.svg" alt="MySQL"/>
+      <br/><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://cdn.svgporn.com/logos/microsoft-power-bi.svg" alt="Power BI"/>
+      <br/><sub><b>Power BI</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://cdn.svgporn.com/logos/tableau-icon.svg" alt="Tableau"/>
+      <br/><sub><b>Tableau</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R"/>
+      <br/><sub><b>R</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel"/>
+      <br/><sub><b>Excel</b></sub>
+    </td>
+    <td align="center">
+      <img height="72px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git"/>
+      <br/><sub><b>Git</b></sub>
+    </td>
   </tr>
 </table>
 
