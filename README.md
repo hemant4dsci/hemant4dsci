@@ -12,7 +12,7 @@
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Python-Light.svg" alt="Python">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Numpy-Light.svg" alt="NumPy">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-light.svg" alt="Pandas">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-dark.svg" alt="Matplotlib">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-light.svg" alt="Matplotlib">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-light.svg" alt="Seaborn">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/SciKitLearn-Light.svg" alt="Scikit-learn">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scipy-light.svg" alt="SciPy">
