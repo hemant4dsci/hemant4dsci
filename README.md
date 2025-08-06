@@ -36,15 +36,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hemant4dsci/">
-    <img height="48px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn"/>
+    <img height="64px" src="https://www.svgrepo.com/show/138936/linkedin.svg" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/hemant4dsci/">
-    <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg" alt="GitHub"/>
+    <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/dark/github.svg" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:hemant4dsci@gmail.com">
-    <img height="48px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail"/>
+    <img height="64px" src="https://raw.githubusercontent.com/YuheshPandian/ICONIC/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail"/>
   </a>
 </p>
 
