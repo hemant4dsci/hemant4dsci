@@ -43,7 +43,7 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
-        <img height="64px" src="https://www.iconarchive.com/i75878/martz90/circle/linkedin.512.png" alt="LinkedIn" />
+        <img height="64px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" />
       </a>
     </td>
     <td align="center">
