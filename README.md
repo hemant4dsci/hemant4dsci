@@ -48,8 +48,9 @@
   </a>
 </p>
 
-![snake gif](https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 <h3 align="center">Thanks for stopping by! 😊</h3>
 
