@@ -6,7 +6,7 @@
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=10000000000000000&color=F7F7F7&width=435&lines=Data+Analyst+%7C+Detail-oriented%2C+with+expertise+in+extracting+actionable+insights+from+complex+data+using+advanced+analytics+and+visualization+tools.)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=10000000000000000&color=F7F7F7&width=435&lines=Data+Analyst+%7C+Detail-oriented%2C+with+expertise+in+extracting+actionable+insights+from+complex+data+using+advanced+analytics+and+visualization+tools.)
 
 <h2><strong> My Tech Stack </strong></h2>
 
