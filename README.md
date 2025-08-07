@@ -10,7 +10,7 @@
 
 <p align="center">
   <img height="64px" src="https://cdn.svglogos.dev/logos/python.svg" alt="Python">
-  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/numpy-auto.svg" alt="NumPy">
+  <img height="64px" src="https://cdn.svglogos.dev/logos/numpy.svg" alt="NumPy">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-auto.svg" alt="Pandas">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-auto.svg" alt="Matplotlib">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-auto.svg" alt="Seaborn">
