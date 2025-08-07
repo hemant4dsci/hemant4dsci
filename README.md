@@ -28,6 +28,7 @@
 </p>
 
 ![Perplexity](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 <h2><strong> GitHub Status </strong></h2>
 
