@@ -14,7 +14,7 @@
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-auto.svg" alt="Pandas">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-auto.svg" alt="Matplotlib">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-auto.svg" alt="Seaborn">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scikitlearn-Light.svg" alt="Scikit-learn">
+  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scikitlearn-auto.svg" alt="Scikit-learn">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scipy-auto.svg" alt="SciPy">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/jupyter-auto.svg" alt="Jupyter">
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/vscode-auto.svg" alt="VSCode">
