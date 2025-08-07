@@ -42,8 +42,8 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank" title="LinkedIn"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
-  <a href="https://github.com/hemant4dsci" target="_blank" title="GitHub"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg" alt="GitHub" height="48px"></a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" height="48px"></a>
+  <a href="https://github.com/hemant4dsci" target="_blank" title="GitHub"><img src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/github.svg" alt="GitHub" height="48px"></a>
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/gmail.svg" alt="Gmail" height="48px"></a>
 </p>
 
 
