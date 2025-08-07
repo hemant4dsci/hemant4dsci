@@ -9,22 +9,22 @@
 <h2><strong> My Tech Stack </strong></h2>
 
 <p align="center">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/python-auto.svg" alt="Python">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/numpy-auto.svg" alt="NumPy">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-auto.svg" alt="Pandas">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-auto.svg" alt="Matplotlib">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-auto.svg" alt="Seaborn">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scikitlearn-auto.svg" alt="Scikit-learn">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scipy-auto.svg" alt="SciPy">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/jupyter-auto.svg" alt="Jupyter">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/vscode-auto.svg" alt="VSCode">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/mysql-auto.svg" alt="MySQL">
-  <img height="72px" src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" alt="Power BI">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-auto.svg" alt="Tableau">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/r-auto.svg" alt="R">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-auto.svg" alt="Excel">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-auto.svg" alt="Git">
-  <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/anaconda-auto.svg" alt="Anaconda">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/python-auto.svg" alt="Python">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/numpy-auto.svg" alt="NumPy">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-auto.svg" alt="Pandas">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-auto.svg" alt="Matplotlib">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-auto.svg" alt="Seaborn">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scikitlearn-auto.svg" alt="Scikit-learn">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/scipy-auto.svg" alt="SciPy">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/jupyter-auto.svg" alt="Jupyter">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/vscode-auto.svg" alt="VSCode">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/mysql-auto.svg" alt="MySQL">
+  <img height="64px" src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" alt="Power BI">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-auto.svg" alt="Tableau">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/r-auto.svg" alt="R">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-auto.svg" alt="Excel">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-auto.svg" alt="Git">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/anaconda-auto.svg" alt="Anaconda">
 </p>
 
 <h2><strong> GitHub Status </strong></h2>
@@ -41,9 +41,9 @@
 <h2><strong> Let's Connect</strong></h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank" title="LinkedIn"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" height="64px"></a>
-  <a href="https://github.com/hemant4dsci" target="_blank" title="GitHub"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg" alt="GitHub" height="64px"></a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" height="64px"></a>
+  <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank" title="LinkedIn"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
+  <a href="https://github.com/hemant4dsci" target="_blank" title="GitHub"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg" alt="GitHub" height="48px"></a>
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" height="48px"></a>
 </p>
 
 
