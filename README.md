@@ -24,7 +24,7 @@
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/r-auto.svg" alt="R">
   <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/34/20190925171011%21Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-auto.svg" alt="Git">
-  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/anaconda-auto.svg" alt="Anaconda">
+  <img height="64px" src="https://cdn.svglogos.dev/logos/conda.svg" alt="Anaconda">
 </p>
 
 <h2><strong> GitHub Status </strong></h2>
