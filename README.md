@@ -27,9 +27,6 @@
   <img height="72px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/anaconda-auto.svg" alt="Anaconda">
 </p>
 
-![Perplexity](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
 <h2><strong> GitHub Status </strong></h2>
 
 <p align="center">
