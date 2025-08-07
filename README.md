@@ -62,6 +62,6 @@
 
 <h3>Thanks for stopping by! 😊</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)](https://git.io/typing-svg)
 
 ⭐️ From [Hemant](https://github.com/hemant4dsci) 
