@@ -40,7 +40,8 @@
 
 <h2><strong> Let's Connect</strong></h2>
 
-<p align="center">
+<div align="center">
+  
   <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
     <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" />
   </a>
@@ -52,7 +53,8 @@
   <a href="mailto:hemant4dsci@gmail.com" target="_blank">
     <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" />
   </a>
-</p>
+  
+</div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
 ⭐️ From [Hemant](https://github.com/hemant4dsci) 
