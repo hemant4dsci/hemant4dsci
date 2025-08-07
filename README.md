@@ -41,19 +41,19 @@
 <h2><strong> Let's Connect</strong></h2>
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
-    <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" />
+
+  <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" height="64px" style="margin: 0 20px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hemant4dsci" target="_blank">
-    <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg" alt="GitHub" />
+
+  <a href="https://github.com/hemant4dsci" target="_blank" title="View GitHub Profile">
+    <img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg" alt="GitHub" height="64px" style="margin: 0 20px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
-    <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" />
+
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Send Email">
+    <img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" height="64px" style="margin: 0 20px;" />
   </a>
-  
+
 </div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
