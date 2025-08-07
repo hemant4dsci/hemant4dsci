@@ -6,6 +6,9 @@
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
+![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue)
+
+
 <h2><strong> My Tech Stack </strong></h2>
 
 <p align="center">
