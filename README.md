@@ -40,27 +40,16 @@
 
 <h2><strong> Let's Connect</strong></h2>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank">
-        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/hemant4dsci" target="_blank">
-        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:hemant4dsci@gmail.com" target="_blank">
-        <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg" alt="Gmail" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<h3>Thanks for stopping by! 😊</h3>
+[![LinkedIn](https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg)](https://www.linkedin.com/in/hemant4dsci/)
+&nbsp;&nbsp;
+[![GitHub](https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/github-auto.svg)](https://github.com/hemant4dsci)
+&nbsp;&nbsp;
+[![Gmail](https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/gmail-auto.svg)](mailto:hemant4dsci@gmail.com)
+
+</div>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)](https://git.io/typing-svg)
 
