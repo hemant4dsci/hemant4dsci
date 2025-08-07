@@ -6,7 +6,7 @@
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
-<pre> Detail-oriented Data Analyst skilled in turning complex data into actionable insights through advanced analytics and impactful visualizations. </pre>
+<pre lang="text"> ``` Detail-oriented Data Analyst skilled in turning complex data into actionable insights through advanced analytics and impactful visualizations. ``` </pre>
 
 <h2><strong> My Tech Stack </strong></h2>
 
