@@ -5,7 +5,6 @@
 <h2><strong> About Me </strong></h2>
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
-### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
 <h2><strong> My Tech Stack </strong></h2>
 
