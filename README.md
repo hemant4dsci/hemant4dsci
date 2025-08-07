@@ -23,7 +23,7 @@
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-auto.svg" alt="Tableau">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/r-auto.svg" alt="R">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-auto.svg" alt="Excel">
-  <img width="64" height="64" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
+  <img width="64" height="64" src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/>
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-auto.svg" alt="Git">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/anaconda-auto.svg" alt="Anaconda">
 </p>
