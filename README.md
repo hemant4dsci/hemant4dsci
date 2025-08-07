@@ -19,7 +19,7 @@
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/jupyter-auto.svg" alt="Jupyter">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/vscode-auto.svg" alt="VSCode">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/mysql-auto.svg" alt="MySQL">
-  <img height="64px" src="https://cdn.svglogos.dev/logos/mysql.svg" alt="Power BI">
+  <img height="64px" src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" alt="Power BI">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/tableau-auto.svg" alt="Tableau">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/r-auto.svg" alt="R">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/excel-auto.svg" alt="Excel">
