@@ -24,6 +24,7 @@
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/r.svg" alt="R">
   <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/34/20190925171011%21Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
+  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/github.svg" alt="GitHub">
 </p>
 
 <h2><strong> GitHub Status </strong></h2>
