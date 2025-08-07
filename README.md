@@ -5,9 +5,7 @@
 <h2><strong> About Me </strong></h2>
 
 ### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
-
-![Data Analyst](https://img.shields.io/badge/Role-Data%20Analyst-blue)
-
+### Detail-Oriented "Data Analyst" skilled in transforming complex data into actionable insights using advanced statistical analysis and compelling data visualizations.
 
 <h2><strong> My Tech Stack </strong></h2>
 
