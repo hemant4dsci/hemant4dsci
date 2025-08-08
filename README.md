@@ -27,10 +27,6 @@
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/github.svg" alt="GitHub">
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Description" width="400"/>
-</p>
-
 <h2><strong> GitHub Status </strong></h2>
 
 <p align="center">
