@@ -34,9 +34,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hemant4dsci&theme=synthwave" alt="Hemant's GitHub Stats">
   </a>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/StefRuseva88/StefRuseva88/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
 
 <h2><strong> Let's Connect</strong></h2>
 
