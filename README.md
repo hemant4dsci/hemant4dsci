@@ -4,7 +4,7 @@
 
 <h2><strong> About Me </strong></h2>
 
-#### Results-driven Data Analyst with a proven track record of transforming complex datasets into actionable insights that drive business performance. Proficient in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with expertise in building interactive dashboards, automating workflows, and optimizing data pipelines for efficiency. Skilled at identifying trends, uncovering opportunities, and delivering clear, data-backed recommendations to support strategic decisions. Known for a strong analytical mindset, attention to detail, and the ability to bridge the gap between data and business impact.
+#### Results-driven Data Analyst with a proven ability to transform complex datasets into actionable insights that enhance business performance. Proficient in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with expertise in building interactive dashboards, automating workflows, and optimizing data pipelines for maximum efficiency. Skilled in identifying trends, uncovering opportunities, and delivering precise, data-driven recommendations that influence strategic decision-making. Recognized for a strong analytical mindset, meticulous attention to detail, and the ability to bridge the gap between technical analysis and business impact.
 
 <h2><strong> Tools & Technologies </strong></h2>
 
