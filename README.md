@@ -6,6 +6,8 @@
 
 #### Results-driven Data Analyst with a proven track record of transforming complex datasets into actionable insights that drive business performance. Proficient in Python, R, SQL, Tableau, Power BI, Excel, and Alteryx, with expertise in building interactive dashboards, automating workflows, and optimizing data pipelines for efficiency. Skilled at identifying trends, uncovering opportunities, and delivering clear, data-backed recommendations to support strategic decisions. Known for a strong analytical mindset, attention to detail, and the ability to bridge the gap between data and business impact.
 
+![Description](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 <h2><strong> Tools & Technologies </strong></h2>
 
 <p align="center">
@@ -26,8 +28,6 @@
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/git.svg" alt="Git">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/ac6be1e89908d881cadaf5a04cef4fe8e286ab70/icons/light/github.svg" alt="GitHub">
 </p>
-
-![Description](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
 
 <h2><strong> GitHub Status </strong></h2>
 
