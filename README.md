@@ -4,7 +4,7 @@
 
 <h2><strong> About Me </strong></h2>
 
-#### Results-driven Data Analyst with a proven ability to transform complex datasets into actionable insights that enhance business performance. Proficient in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with advanced expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and scikit-learn for data manipulation, statistical analysis, and predictive modeling. Experienced in EDA, hypothesis testing, feature engineering, and building machine learning models, as well as developing interactive dashboards, automating workflows, and optimizing data pipelines for maximum efficiency. Skilled in identifying trends, uncovering opportunities, and delivering precise, data-driven recommendations that influence strategic decision-making. Recognized for a strong analytical mindset, meticulous attention to detail, and the ability to bridge the gap between technical analysis and business impact.
+#### Results-driven Data Analyst skilled in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and scikit-learn for statistical analysis, EDA, and machine learning. Experienced in predictive modeling, building interactive dashboards, automating workflows, and optimizing data pipelines. Recognized for delivering actionable insights that drive strategic decisions, with a strong analytical mindset and meticulous attention to detail.
 
 <h2><strong> Tools & Technologies </strong></h2>
 
