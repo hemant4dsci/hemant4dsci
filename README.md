@@ -46,10 +46,5 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
 
-<svg viewBox="0 0 100 100" width="40" height="40">
-  <rect x="20" y="25" width="60" height="50" rx="5" fill="#150458"/>
-  <path d="M35 40h30M35 50h30M35 60h30" stroke="white" stroke-width="3"/>
-  <circle cx="27" cy="40" r="3" fill="#FF0"/>
-  <circle cx="27" cy="50" r="3" fill="#FF0"/>
-  <circle cx="27" cy="60" r="3" fill="#FF0"/>
-</svg>
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
