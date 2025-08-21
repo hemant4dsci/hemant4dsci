@@ -26,6 +26,7 @@
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/git-light.svg" alt="Git">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Github-Light.svg" alt="GitHub">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Anaconda-Light.svg" alt="AnaConda">
+  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/chatgpt-light.svg">
 </p>
 
 <h2><strong> GitHub Status </strong></h2>
@@ -45,8 +46,3 @@
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
