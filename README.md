@@ -43,7 +43,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank" title="LinkedIn"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Gmail-Light.svg" alt="Gmail" height="48px"></a>
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/gmail.svg" alt="Gmail" height="48px"></a>
 </p>
 
 
