@@ -9,7 +9,7 @@
 <h2><strong> Tools & Technologies </strong></h2>
 
 <p align="center">
-  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Python-Light.svg" alt="Python">
+  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/dark/python.svg" alt="Python">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/Numpy-Light.svg" alt="NumPy">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-light.svg" alt="Pandas">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-light.svg" alt="Matplotlib">
