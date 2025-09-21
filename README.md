@@ -10,8 +10,6 @@
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="128">
-  
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,8 +43,10 @@
 <h2><strong> Let's Connect</strong></h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hemant4dsci/" target="_blank" title="LinkedIn"><img src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/LinkedIn.svg" alt="LinkedIn" height="48px"></a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" title="Gmail"><img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/gmail.svg" alt="Gmail" height="48px"></a>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant4dsci/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemant4dsci@gmail.com)
+  
 </p>
 
 
