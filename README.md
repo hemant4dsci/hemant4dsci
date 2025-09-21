@@ -13,10 +13,10 @@
   <img height="64px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
   <img height="64px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img height="64px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
-  <img height="64px" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Seaborn">
+  <img height="64px" src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Seaborn">
   <img height="64px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scipy.svg" alt="SciPy">
-  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/jupyter.svg" alt="Jupyter">
+  <img height="64px" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="SciPy">
+  <img height="64px" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/vscode.svg" alt="VSCode">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/mysql.svg" alt="MySQL">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/postgresql.svg" alt="PostgreSQL">
