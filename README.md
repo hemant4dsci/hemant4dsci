@@ -11,10 +11,10 @@
 <p align="center">
   <img height="64px" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img height="64px" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/pandas-dark.svg" alt="Pandas">
-  <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/matplotlib-dark.svg" alt="Matplotlib">
+  <img height="64px" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img height="64px" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
   <img height="64px" src="https://github.com/brunoliratm/skill-icons/blob/da96af65da1d793397fcb2361e3e450107b390e4/icons/seaborn-dark.svg" alt="Seaborn">
-  <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scikit-learn.svg" alt="Scikit-learn">
+  <img height="64px" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scipy.svg" alt="SciPy">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/jupyter.svg" alt="Jupyter">
   <img height="64px" src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/vscode.svg" alt="VSCode">
