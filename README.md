@@ -2,9 +2,11 @@
   Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm <a href="https://github.com/hemant4dsci">Hemant</a>
 </h1>
 
-# 💫 ***About Me***
+# ***About Me***
 
 #### Results-driven Data Analyst skilled in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and SciKit-Learn for statistical analysis, EDA, and machine learning. Experienced in predictive modeling, building interactive dashboards, automating workflows, and optimizing data pipelines. Recognized for delivering actionable insights that drive strategic decisions, with a strong analytical mindset and meticulous attention to detail.
+
+---
 
 # ***Tools & Technologies***
 
@@ -37,6 +39,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=hemant4dsci&theme=synthwave" alt="Hemant's GitHub Stats">
   </a>
 </p>
+---
 
 # ***Let's Connect***
   
