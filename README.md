@@ -2,12 +2,12 @@
   Hey <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px">, I'm <a href="https://github.com/hemant4dsci">Hemant</a>
 </h1>
 
-# ***<ins> About Me </ins>***
+# <ins> *** About Me *** </ins>
 
 #### Results-driven Data Analyst skilled in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and SciKit-Learn for statistical analysis, EDA, and machine learning. Experienced in predictive modeling, building interactive dashboards, automating workflows, and optimizing data pipelines. Recognized for delivering actionable insights that drive strategic decisions, with a strong analytical mindset and meticulous attention to detail.
 
 
-# ***<ins>Tools & Technologies</ins>***
+# <ins>***Tools & Technologies***</ins>
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -30,7 +30,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-# <ins>*GitHub Status*</ins>
+# <ins>***GitHub Status***</ins>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
