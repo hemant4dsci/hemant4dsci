@@ -30,7 +30,7 @@
 
 ---
 
-<h2><strong> GitHub Status </strong></h2>
+# ***GitHub Status***
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
