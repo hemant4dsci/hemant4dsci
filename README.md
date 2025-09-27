@@ -30,7 +30,7 @@
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 
-# <ins>GitHub Status</ins>
+# <ins>**GitHub Status**</ins>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
