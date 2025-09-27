@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<h2><strong> Let's Connect</strong></h2>
+# ***Let's Connect***
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant4dsci/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemant4dsci@gmail.com)
