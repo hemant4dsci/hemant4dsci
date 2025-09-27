@@ -6,7 +6,6 @@
 
 #### Results-driven Data Analyst skilled in Python, R, MySQL, Tableau, Power BI, Excel, and Alteryx, with expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and SciKit-Learn for statistical analysis, EDA, and machine learning. Experienced in predictive modeling, building interactive dashboards, automating workflows, and optimizing data pipelines. Recognized for delivering actionable insights that drive strategic decisions, with a strong analytical mindset and meticulous attention to detail.
 
----
 
 # ***Tools & Technologies***
 
@@ -30,7 +29,6 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
---
 
 # ***GitHub Status***
 
@@ -40,14 +38,11 @@
   </a>
 </p>
 
----
 
 # ***Let's Connect***
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant4dsci/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemant4dsci@gmail.com)
-
----
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
