@@ -39,14 +39,15 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/ai.svg" width="72" height="72"/>
 </p>
 
-<h2>Lets' Connect</h2>
-<p>
+<h2>Let's Connect</h2>
+<div style="display: flex; gap: 15px; align-items: center;">
   <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
-    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="72" height="72"/>
+    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="72" height="72" style="border:none;"/>
   </a>
   <a href="mailto:hemant4dsci@gmail.com" target="_blank">
-    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="88" height="72"/>
+    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="88" height="72" style="border:none;"/>
   </a>
-</p>
+</div>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
