@@ -4,7 +4,7 @@
 
 Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Excel with expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and SciKit-Learn for statistical analysis, EDA, and machine learning. Experienced in predictive modeling, building interactive dashboards, automating workflows, and optimizing data pipelines. Recognized for delivering actionable insights that drive strategic decisions, with a strong analytical mindset and meticulous attention to detail.
 
-<h2>🚀 Tools & Technologies</h2>
+<h2> Tools & Technologies</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 18px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
