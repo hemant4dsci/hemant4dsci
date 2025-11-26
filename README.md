@@ -7,6 +7,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 <h2> Tools & Technologies</h2>
 
 <h3>Programming & Databases</h3>
+
 <p>
   <img src="https://cdn.svglogos.dev/logos/python.svg" width="72" height="72"/>
   <img src="https://cdn.svglogos.dev/logos/postgresql.svg" width="72" height="72"/>
@@ -14,6 +15,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 </p>
 
 <h3>Data Analytics & ML</h3>
+
 <p>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/pandas.svg" width="72" height="72"/>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/numpy.svg" width="72" height="72"/>
@@ -23,6 +25,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 </p>
 
 <h3>Data Visulization</h3>
+
 <p>
   <img src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg" width="72" height="72"/>
   <img src="https://cdn.svglogos.dev/logos/seaborn-icon.svg" width="72" height="72"/>
@@ -31,6 +34,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 </p>
 
 <h3>Development & Collaboration</h3>
+
 <p>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/jupyter.svg" width="72" height="72"/>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/vscode.svg" width="72" height="72"/>
@@ -41,15 +45,15 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h2>Let's Connect</h2>
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start;">
-  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="72" height="72" style="border:none;">
+<div style="display:flex; justify-content:center; gap:30px; align-items:center;">
+  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="65" style="transition:0.3s;">
   </a>
-
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="72" height="72" style="border:none;">
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="70" style="transition:0.3s;">
   </a>
 </div>
+
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
