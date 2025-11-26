@@ -40,8 +40,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 </p>
 
 <h2>Lets' Connect</h2>
-
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
     <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="72" height="72"/>
   </a>
