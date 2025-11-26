@@ -8,9 +8,9 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h3>Programming & Databases</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/python.svg" width="45" height="45"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/postgresql.svg" width="45" height="45"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/mysql.svg" width="45" height="45"/>
 </p>
 
 <h3>Data Analytics & Visualization</h3>
