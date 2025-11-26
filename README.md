@@ -9,7 +9,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 <!-- Programming & Database Technologies -->
 <h3>🛠 Programming & Database Technologies</h3>
 <p style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/python.svg" width="140" height="40"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/python.svg" width="140"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" width="140" height="40"/>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" width="140" height="40"/>
 </p>
