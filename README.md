@@ -10,7 +10,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 <p>
   <img src="https://cdn.svglogos.dev/logos/python.svg" width="72" height="72"/>
   <img src="https://cdn.svglogos.dev/logos/postgresql.svg" width="72" height="72"/>
-  <img src="https://cdn.svglogos.dev/logos/mysql.svg" width="72" height="72"/>
+  <img src="https://cdn.svglogos.dev/logos/mysql.svg" width="108" height="72"/>
 </p>
 
 <h3>Data Analytics & ML</h3>
