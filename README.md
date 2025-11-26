@@ -39,26 +39,14 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/ai.svg" width="72" height="72"/>
 </p>
 
-## GitHub Status
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=hemant4dsci&theme=synthwave" alt="Hemant's GitHub Stats">
-  </a>
-</p>
+<h2>Lets' Connect</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="72" height="72"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
-  <a href="mailto:yourname@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40"/>
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" width="40"/>
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="88" height="72"/>
   </a>
 </p>
 
