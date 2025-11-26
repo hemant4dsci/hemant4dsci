@@ -45,7 +45,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h2>Let's Connect</h2>
 
-<div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
+<div>
   <a href="https://www.linkedin.com/in/hemant4dsci">
     <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="70" />
   </a>
