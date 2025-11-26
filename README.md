@@ -45,13 +45,14 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h2>Let's Connect</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
-    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="70" />
+    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="65" style="transition:0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" style="margin-left: 15px;">
-    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="70" />
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="65" style="transition:0.3s; margin-left:15px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
