@@ -45,22 +45,13 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h2>Let's Connect</h2>
 
-<div style="display: flex; gap: 20px; align-items: center; justify-content: flex-start; 
-            margin: 0; padding: 0; list-style: none;">
-  
-  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank" 
-     style="display:inline-block; text-decoration:none; border:none; list-style:none;">
-    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="70" 
-         style="display:inline-block; border:none;"/>
+<div style="display: flex; flex-direction: row; gap: 20px; align-items: center;">
+  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="70" />
   </a>
-
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank" 
-     style="display:inline-block; text-decoration:none; border:none; list-style:none;">
-    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="70" 
-         style="display:inline-block; border:none;"/>
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
+    <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="70" />
   </a>
-
 </div>
-
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
