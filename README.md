@@ -45,11 +45,11 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h2>Let's Connect</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/hemant4dsci" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.svglogos.dev/logos/linkedin-icon.svg" width="65" style="transition:0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:hemant4dsci@gmail.com" target="_blank">
+  <a href="mailto:hemant4dsci@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.svglogos.dev/logos/google-gmail.svg" width="65" style="transition:0.3s; margin-left:15px;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
