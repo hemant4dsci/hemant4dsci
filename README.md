@@ -15,7 +15,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h3>Data Analytics & ML</h3>
 <p>
-  <img src="https://cdn.svglogos.dev/logos/pandas-icon.svg" width="72" height="72"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/pandas.svg" width="72" height="72"/>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/numpy.svg" width="72" height="72"/>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scikit-learn.svg" width="72" height="72"/>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scipy.svg" width="72" height="72"/>
@@ -24,7 +24,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h3>Data Visulization</h3>
 <p>
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/matplotlib.svg" width="72" height="72"/>
+  <img src="https://cdn.svglogos.dev/logos/matplotlib-icon.svg" width="72" height="72"/>
   <img src="https://cdn.svglogos.dev/logos/seaborn-icon.svg" width="72" height="72"/>
   <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="72" height="72"/>
   <img src="https://cdn.svglogos.dev/logos/tableau-icon.svg" width="72" height="72"/>
