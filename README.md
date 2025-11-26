@@ -1,6 +1,6 @@
 # Hey, I'm HEMANT 👋
 
-## About Me
+<h2>About Me</h2>
 
 Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Excel with expertise in NumPy, Pandas, Matplotlib, Seaborn, SciPy, and SciKit-Learn for statistical analysis, EDA, and machine learning. Experienced in predictive modeling, building interactive dashboards, automating workflows, and optimizing data pipelines. Recognized for delivering actionable insights that drive strategic decisions, with a strong analytical mindset and meticulous attention to detail.
 
@@ -16,18 +16,20 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 <h3>Data Analytics & ML</h3>
 <p>
   <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/pandas.svg" width="72" height="72"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/numpy.svg" width="72" height="72"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scikit-learn.svg" width="72" height="72"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/scipy.svg" width="72" height="72"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="72" height="72"/>
 </p>
 
 <h3>Data Visulization</h3>
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_power_bi_logo.svg" width="45" height="45"/>
-  
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45" height="45"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/matplotlib.svg" width="72" height="72"/>
+  <img src="https://cdn.svglogos.dev/logos/seaborn-icon.svg" width="72" height="72"/>
+  <img src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg" width="72" height="72"/>
+  <img src="https://cdn.svglogos.dev/logos/tableau-icon.svg" width="72" height="72"/>
 </p>
+
 <h3>Development & Collaboration</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
