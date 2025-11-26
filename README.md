@@ -50,10 +50,4 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
   </a>
 </p>
 
-## Let's Connect
-  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant4dsci/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hemant4dsci@gmail.com)
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&pause=1000&width=435&lines=Thanks+for+stopping+by!+😊)
