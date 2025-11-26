@@ -8,20 +8,26 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 
 <h3>Programming & Databases</h3>
 <p>
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/dark/python.svg" width="64" height="64"/>
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/dark/postgresql.svg" width="64" height="64"/>
-  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/dark/mysql.svg" width="64" height="64"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/python.svg" width="72" height="72"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/postgresql.svg" width="72" height="72"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/mysql.svg" width="72" height="72"/>
 </p>
 
-<h3>Data Analytics & Visualization</h3>
+<h3>Data Analytics & ML</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/8e7d34002558be5966bc13236343cbf4d183768a/icons/light/pandas.svg" width="72" height="72"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45"/>
-  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_power_bi_logo.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45"/>
 </p>
 
+<h3>Data Visulization</h3>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_power_bi_logo.svg" width="45" height="45"/>
+  
+  <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" width="45" height="45"/>
+</p>
 <h3>Development & Collaboration</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" height="45"/>
