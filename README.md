@@ -9,7 +9,7 @@ Results-driven **Data Analyst** skilled in Python, PostgreSQL, Power BI and Exce
 <h3>Programming & Databases</h3>
 
 <p>
-  <img src="https://cdn.svglogos.dev/logos/python.svg" width="64" height="64"/>
+  <img src="https://github.com/YuheshPandian/ICONIC/blob/dcb8107fd7f903b9f9922e09695c22452a8d360c/icons/light/python.svg" width="64" height="64"/>
   <img src="https://cdn.svglogos.dev/logos/postgresql.svg" width="64" height="64"/>
   <img src="https://cdn.svglogos.dev/logos/mysql.svg" width="96" height="64"/>
 </p>
